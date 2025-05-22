@@ -6,3 +6,4 @@ PyQt5==5.15.11
 PyQt5-Qt5==5.15.16
 PyQt5_sip==12.17.0
 setuptools==75.8.1
+source passwd/bin/activate

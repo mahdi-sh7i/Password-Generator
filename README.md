@@ -5,6 +5,10 @@ Certainly! Below is a sample README.md file that you can use to explain your pas
 
 This is a Python-based password generator application built using PyQt5. The application allows users to generate secure passwords based on customizable criteria, providing options for character types and password length. It also calculates the password's entropy and strength, helping users understand the security of their generated passwords.
 
+## Previwe
+
+
+
 ## Features
 
 - **Customizable Password Length**: Users can select the desired length for the password using a slider or a spin box.
