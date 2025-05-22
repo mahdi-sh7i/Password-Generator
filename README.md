@@ -1,6 +1,3 @@
-# password_generator
-Certainly! Below is a sample README.md file that you can use to explain your password_generator code. This file provides an overview of the application, its functionality, and instructions for usage.
-
 # Password Generator
 
 This is a Python-based password generator application built using PyQt5. The application allows users to generate secure passwords based on customizable criteria, providing options for character types and password length. It also calculates the password's entropy and strength, helping users understand the security of their generated passwords.
